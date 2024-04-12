@@ -1,4 +1,3 @@
-x = bytearray(5)
-y = memoryview(bytes(5))	
+x = 9
+x %= 3
 print(x)
-print(y)
